@@ -1,4 +1,4 @@
-# samp [![Build Status](https://secure.travis-ci.org/jb55/extname.c.png?branch=master)](https://travis-ci.org/jb55/extname.c)
+# samp
 
 Sample input given some probability
 
