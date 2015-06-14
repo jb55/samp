@@ -9,7 +9,8 @@ $(BIN): samp.c
 	$(CC) -Ideps -o $@ $^
 
 install: $(BIN)
-	install $< $(PREFIX)/bin
+	mkdir -p $(PREFIX)/bin/
+	install $< $(PREFIX)/bin/$(BIN)
 
 deps:
 	clib install
