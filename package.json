@@ -1,6 +1,6 @@
 {
   "name": "samp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repo": "jb55/samp",
   "description": "randomly sample lines from a file",
   "keywords": ["sample", "random", "bin"],
