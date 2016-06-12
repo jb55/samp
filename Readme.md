@@ -8,6 +8,10 @@ Sample input given some probability
 
     $ clib install jb55/samp
 
+  Install with [nix](https://github.com/nixos/nix):
+
+    $ nix-env -f https://jb55.com/pkgs -iA samp
+
   Install with make:
 
     $ git clone https://github.com/jb55/samp.git /tmp/samp
